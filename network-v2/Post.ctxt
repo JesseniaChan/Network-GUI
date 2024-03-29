@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Post
+comment1.params=author
+comment1.target=Post(java.lang.String)
+comment2.params=
+comment2.target=long\ getTimeStamp()
+comment3.params=
+comment3.target=java.lang.String\ getAuthor()
+comment4.params=
+comment4.target=java.lang.String\ getImageFile()
+comment5.params=
+comment5.target=java.lang.String\ getCaption()
+comment6.params=
+comment6.target=void\ display()
+comment7.params=
+comment7.target=java.lang.String\ displayString()
+comment8.params=time
+comment8.target=java.lang.String\ timeString(long)
+comment9.params=x
+comment9.target=void\ inputData(java.lang.String)
+numComments=10
